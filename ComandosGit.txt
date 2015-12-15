@@ -1,5 +1,18 @@
+/*** BÁSICOS ***/
 git add <fichero/carpeta>
 
 git commit —a m “textoCommit”
 
 git push -u origin master
+
+/*** SABER ESTADO ***/
+git status
+
+/*** SABER CONFIGURACIÓN ***/
+git config -l
+
+/*** ELIMINAR FICHERO/CARPETA (NO REPOSITORIO) ***/
+git rm (-r) <fichero/carpeta>
+
+
+
