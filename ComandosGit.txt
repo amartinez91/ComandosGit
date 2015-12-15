@@ -1,0 +1,5 @@
+git add <fichero/carpeta>
+
+git commit —a m “textoCommit”
+
+git push -u origin master
