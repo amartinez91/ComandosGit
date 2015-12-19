@@ -1,3 +1,13 @@
+/*** CONFIGURACIÓN ***/
+git config x user.name “nombre”
+
+git config x user.email <email>
+
+	- siendo x:
+		 -—system —> el mismo para todos los usuarios del SO
+		 -—global —> solo dentro del directorio home
+		 (sin nada) —> solo en el repositorio
+
 /*** BÁSICOS ***/
 git clone <URLdelDirectorioAClonarEnTuEquipo>
 
