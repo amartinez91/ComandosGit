@@ -1,9 +1,13 @@
 /*** BÁSICOS ***/
+git clone <URLdelDirectorioAClonarEnTuEquipo>
+
+git pull origin master
+
 git add <fichero/carpeta>
 
 git commit —a m “textoCommit”
 
-git push -u origin master
+git push origin master
 
 /*** SABER ESTADO ***/
 git status
