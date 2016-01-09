@@ -9,9 +9,9 @@ git config x user.email <email>
 		 (sin nada) —> solo en el repositorio
 
 /*** BÁSICOS ***/
-git clone <URLdelDirectorioAClonarEnTuEquipo>
+git clone <URLdelDirectorioAClonarEnTuEquipo> /*** SOLO LA PRIMERA VEZ ***/
 
-git pull origin master
+git pull origin master /*** PARA DESCARCARGARSE LOS CAMBIOS ***/
 
 git add <fichero/carpeta>
 
